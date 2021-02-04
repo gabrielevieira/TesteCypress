@@ -3,12 +3,8 @@
 
 
 
-## Instalar o cypress
+## Comandos para instalar o Cypress e executar
 #### npm install 
-
-
-
-## Executar o Cypress
 #### npx cypress open
 
 
