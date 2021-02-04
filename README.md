@@ -1,8 +1,11 @@
 # TesteCypress
 
---> Instalar o cypress
-npm install cypress --save-dev
+#### Teste Realizado com Cypress site de Compras
+
+### Instalar o cypress
+#### npm install 
+
+### Executar o Cypress
+#### npx cypress open
 
 
--->Executar o projeto
-node_modules/.bin/cypress opengit 
