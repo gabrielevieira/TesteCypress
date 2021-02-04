@@ -1,11 +1,14 @@
 # TesteCypress
+###### Teste Realizado com Cypress site de Compras
 
-#### Teste Realizado com Cypress site de Compras
 
-### Instalar o cypress
+
+## Instalar o cypress
 #### npm install 
 
-### Executar o Cypress
+
+
+## Executar o Cypress
 #### npx cypress open
 
 
